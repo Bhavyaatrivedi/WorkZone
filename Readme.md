@@ -1,6 +1,6 @@
 # WorkZone
 
-This project is a simple employee management system that allows users to create, read, update, and delete employee data. The frontend of the application is built using *React* and uses various libraries such as, *React Router Dom, **Redux, and **Chart.js* for visualizing data , *Axios, **React-Hooks, **Rest-API* for backend and *JWT Token*.
+This project is a simple employee management system that allows users to create, read, update, and delete employee data. The frontend of the application is built using **React** and uses various libraries such as, **React Router Dom**, **Redux**, and **Chart.js** for visualizing data , **Axios**, **React-Hooks**, **Rest-API** for backend and **JWT Token**.
 
 ## Features:
 
@@ -14,7 +14,7 @@ This project is a simple employee management system that allows users to create,
 
 *Delete Employee*: The delete employee component allows users to delete an existing employee from the system.
 
-*Analysis: The analysis component displays various charts that provide insights into the employee data. The **charts* display the total number of employees, the number of employees in each department, and the number of employees in each status.
+*Analysis*: The analysis component displays various charts that provide insights into the employee data. The **charts* display the total number of employees, the number of employees in each department, and the number of employees in each status.
 
 *Map Component*: The map component displays a map of the employee's address using OpenStreetMap. Users can enter an address, and the map will display the location of the address.
 
